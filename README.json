@@ -1,0 +1,25 @@
+{
+  "currentKittens": [
+    {
+      "id": "l959us2o6sigxp9j47c",
+      "name": "Rosemary",
+      "description": "Rosemary is sort of part of The Spice Rack litter. She was caught in the same area as the other 4, however she is a month or 2 older. The rescue were considering TNRing her as she is past the ideal age for socialization and JUST on the line between foster and TNR age, but Chloe wanted to give her a chance. She is still very spicy but Chloe is getting pats in when she can, however Rosemary still seems to only emerge at night when everyone is sleeping. Rosemary is the brown swirly tabby.",
+      "imgUrl": "https://cdn.discordapp.com/attachments/998773575752364113/1027910936171905024/013F7517-691A-4A54-B614-B88B1AD9B70D.jpg",
+      "gender": "female"
+    },
+    {
+      "id": "l95a1g021xixbf0bm3f",
+      "name": "Female",
+      "description": "These two black and white kitties were being given away on a local trade site and are 6 weeks old (legal adoption age is 8 weeks). They will be in the crate when Chloe cannot supervise as they have runny tummies and will make an absolute mess. The girl is the fluffy one of the two.",
+      "imgUrl": "https://media.discordapp.net/attachments/1029647943638196267/1029648145065451550/E41D03B1-777C-4E9F-A1EB-69E78D1B779D.jpg?width=503&height=671",
+      "gender": "female"
+    },
+    {
+      "id": "l95a2n236rl49nspos",
+      "name": "Male",
+      "description": "These two black and white kitties were being given away on a local trade site and are 6 weeks old (legal adoption age is 8 weeks). They will be in the crate when Chloe cannot supervise as they have runny tummies and will make an absolute mess. The male is the less fluffy one of the two.",
+      "imgUrl": "https://media.discordapp.net/attachments/1029647943638196267/1029648061858840606/064CEB09-20BD-4827-AA51-990696C3736E.jpg?width=503&height=671",
+      "gender": "male"
+    }
+  ]
+}
